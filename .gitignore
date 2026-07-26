@@ -1,0 +1,14 @@
+# Environment variables / secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated bills
+bill_*.pdf
+
+# OS / editor junk
+.DS_Store
+.vscode/
