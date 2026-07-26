@@ -96,4 +96,4 @@ Password: 123
 
 ## Author
 
-Built by Shalini as part of BCA coursework / portfolio project.
+Built by Shalini as part of BCA coursework project.
